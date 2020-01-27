@@ -6,22 +6,26 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Blog by Sabin Kafle
-description: Well, its a start. In this blog, I intend to add some of the stuffs I do enjoy working on, mostly Python related though.
+title: Hello to many!
+description: Some senses!
 github_username: sabeink
 
 # Email and twitter are optional:
-email: sabinkafle29@gmail.com
-twitter_username: sabeink
+email: 
+twitter_username: 
+
+# OPTIONAL: override baseurl and url if using a custom domain
+#url:  the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: the subpath of your site, e.g. /blog
 
 # Set this to true to get LaTeX math equation support
-use_math: true
+use_math: 
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
